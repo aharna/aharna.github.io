@@ -221,11 +221,11 @@ header{
       footer{
         background-color: #000;
         margin-left: -80px;
-        margin-right: -09px;
+        margin-right: -90px;
         color: gainsboro;
         margin-top: 100px;
         list-style:none;
-        padding: 50px 70px 70px;
+        padding: 50px;
         font-size: 1rem;
       }
       h1{
@@ -239,4 +239,13 @@ header{
         .sm-handle{
           text-decoration: none;
         }
+
+        .footer_area_p_120{
+          padding-bottom: 30;
+          padding-left: 60;
+          padding-right: 60 ;
+        }
        
+        .col{
+          padding-left: 30px;
+        }
