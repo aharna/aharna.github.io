@@ -15,6 +15,7 @@ body{
   padding-left: 70px;
   padding-right: 60px;
   min-height: 200vh;
+  overflow-x: hidden;
 }
 
 header{
@@ -205,7 +206,7 @@ header{
     .card2{
       height: 300px;
       width: 300px;
-      padding-bottom: 430px;
+      padding-bottom: 470px;
     }
     
    .proj{
@@ -227,6 +228,7 @@ header{
         list-style:none;
         padding: 50px;
         font-size: 1rem;
+      bottom: 0;
       }
       h1{
         text-align: center;
@@ -244,6 +246,7 @@ header{
           padding-bottom: 30;
           padding-left: 60;
           padding-right: 40 ;
+          bottom: 0;
         }
        
         .col{
